@@ -1,5 +1,5 @@
 # Mobincep
-Multi-domain learning CNN model for microscopy image classification
+Multi-domain learning CNN model for microscopy image classification (full source code will be revealed after manuscript is accepted)
 * We present a multi-domain learning architecture that can be successfully used in the classification of very
 different types and contents of microscopy images, from subcellular organelles to cells and tissues. 
 * Unlike previous methods that employ computationally intensive deep networks or ensemble architectures, we have developed a compact model, called Mobincep, by combining the simple but effective techniques of depthwise separable convolution and the inception module. 
